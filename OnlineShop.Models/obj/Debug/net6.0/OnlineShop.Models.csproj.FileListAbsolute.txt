@@ -1,0 +1,12 @@
+C:\Users\Quvonchbek\Desktop\RiderProjects\OnlineShopSolution\OnlineShop.Models\bin\Debug\net6.0\OnlineShop.Models.deps.json
+C:\Users\Quvonchbek\Desktop\RiderProjects\OnlineShopSolution\OnlineShop.Models\bin\Debug\net6.0\OnlineShop.Models.dll
+C:\Users\Quvonchbek\Desktop\RiderProjects\OnlineShopSolution\OnlineShop.Models\bin\Debug\net6.0\OnlineShop.Models.pdb
+C:\Users\Quvonchbek\Desktop\RiderProjects\OnlineShopSolution\OnlineShop.Models\obj\Debug\net6.0\OnlineShop.Models.csproj.AssemblyReference.cache
+C:\Users\Quvonchbek\Desktop\RiderProjects\OnlineShopSolution\OnlineShop.Models\obj\Debug\net6.0\OnlineShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quvonchbek\Desktop\RiderProjects\OnlineShopSolution\OnlineShop.Models\obj\Debug\net6.0\OnlineShop.Models.AssemblyInfoInputs.cache
+C:\Users\Quvonchbek\Desktop\RiderProjects\OnlineShopSolution\OnlineShop.Models\obj\Debug\net6.0\OnlineShop.Models.AssemblyInfo.cs
+C:\Users\Quvonchbek\Desktop\RiderProjects\OnlineShopSolution\OnlineShop.Models\obj\Debug\net6.0\OnlineShop.Models.csproj.CoreCompileInputs.cache
+C:\Users\Quvonchbek\Desktop\RiderProjects\OnlineShopSolution\OnlineShop.Models\obj\Debug\net6.0\OnlineShop.Models.dll
+C:\Users\Quvonchbek\Desktop\RiderProjects\OnlineShopSolution\OnlineShop.Models\obj\Debug\net6.0\refint\OnlineShop.Models.dll
+C:\Users\Quvonchbek\Desktop\RiderProjects\OnlineShopSolution\OnlineShop.Models\obj\Debug\net6.0\OnlineShop.Models.pdb
+C:\Users\Quvonchbek\Desktop\RiderProjects\OnlineShopSolution\OnlineShop.Models\obj\Debug\net6.0\ref\OnlineShop.Models.dll
