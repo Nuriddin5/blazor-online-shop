@@ -11,7 +11,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.11",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.11",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.10",
+<<<<<<< HEAD
           "OnlineShop.Models": "1.0.0",
+=======
+>>>>>>> 916c81d8ec473a1dbd3c61db28a679597b210b37
           "Swashbuckle.AspNetCore": "6.2.3"
         },
         "runtime": {
@@ -2270,11 +2273,14 @@
           "System.Threading": "4.3.0",
           "System.Xml.ReaderWriter": "4.3.0"
         }
+<<<<<<< HEAD
       },
       "OnlineShop.Models/1.0.0": {
         "runtime": {
           "OnlineShop.Models.dll": {}
         }
+=======
+>>>>>>> 916c81d8ec473a1dbd3c61db28a679597b210b37
       }
     }
   },
@@ -3515,11 +3521,14 @@
       "sha512": "sha512-5zJ0XDxAIg8iy+t4aMnQAu0MqVbqyvfoUVl1yDV61xdo3Vth45oA2FoY4pPkxYAH5f8ixpmTqXeEIya95x0aCQ==",
       "path": "system.xml.xdocument/4.3.0",
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
+<<<<<<< HEAD
     },
     "OnlineShop.Models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
+=======
+>>>>>>> 916c81d8ec473a1dbd3c61db28a679597b210b37
     }
   }
 }
