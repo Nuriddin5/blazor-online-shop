@@ -38,7 +38,7 @@ public class ProductRepository:IProductRepository
     public async Task<IEnumerable<Product>> GetItems()
     {
         var products = await this._shopOnlineDbContext.Products
-            // .Include(p => p.ProductCategory)
+            .Include(p => p.ProductCategory)
             .ToListAsync();
 
         return products;
